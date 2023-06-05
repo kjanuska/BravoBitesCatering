@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-bravobitescatering.com	TRUE	/	FALSE	1999999999	8b64e84cf199be53d2fe38cca7898be3	453rf7d634tecubtkb69j69qs3
-
